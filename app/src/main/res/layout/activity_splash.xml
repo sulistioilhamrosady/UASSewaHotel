@@ -24,7 +24,7 @@
             android:textColor="@android:color/white"
             android:layout_below="@+id/image"
             android:layout_height="wrap_content"
-            android:text="UAS Penyewaan Apartement"/>
+            android:text="UAS Penyewaan Apartement."/>
     </RelativeLayout>
 
 </RelativeLayout>
